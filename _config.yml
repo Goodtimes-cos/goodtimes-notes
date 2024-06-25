@@ -2,10 +2,10 @@
 # --- USER CONFIGURATION --- #
 ##############################
 
-title: Exocore
-description: A navigable, organised hypertext personal knowledge base
-url: https://exocore.netlify.app
-repository: remiliacorp/exocore
+title: Goodtimes-notes
+description: My personal knowledge base
+url: https://goodtimes-notes.netlify.app/
+repository: https://github.com/Goodtimes-cos/goodtimes-notes
 
 ##############################################
 # --- ANALYTICS CONFIGURATION (OPTIONAL) --- #
