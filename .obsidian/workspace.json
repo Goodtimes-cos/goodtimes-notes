@@ -11,11 +11,28 @@
             "id": "b9c63783b46c13a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_articles/Configure Exocore for Personal Use.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c74b81262343f5eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_articles/Data Structures and Algorithms.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_articles/Data Structures and Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_articles/Data Structures and Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_articles/Data Structures and Algorithms.md"
+              }
             }
           },
           {
@@ -156,8 +177,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b9c63783b46c13a9",
+  "active": "c74b81262343f5eb",
   "lastOpenFiles": [
+    "_articles/Configure Exocore for Personal Use.md",
+    "_articles/Data Structures and Algorithms.md",
+    "_articles/Set up a Custom Domain.md",
+    "Untitled.md",
     "ring.md",
     "_wiki/Usufruct.md",
     "_wiki/L-Dopa.md",
@@ -166,9 +191,7 @@
     "_articles/Underpinnings of the Exocore.md",
     "_articles/The Exocore Package.md",
     "_articles/table test.md",
-    "_articles/Set up a Custom Domain.md",
     "_articles/Exocore Installation Instructions.md",
-    "_articles/Configure Exocore for Personal Use.md",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "_journal/Jade post.md",
@@ -196,8 +219,6 @@
     "_daily/2022-05-11.md",
     "readme.md",
     "_daily/2022-10-29.md",
-    "_daily/2022-10-27.md",
-    "_daily/2022-10-25.md",
-    "_daily/2022-10-23.md"
+    "_daily/2022-10-27.md"
   ]
 }
