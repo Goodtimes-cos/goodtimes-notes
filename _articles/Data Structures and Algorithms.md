@@ -27,7 +27,9 @@ keys to map them to their elements.
 
 ### C++ implementation
 The below implementation is to implement a function to work with std::array
-implementations, in C++17 or above.
+implementations, in C++17 or above. Note that while C-style arrays
+can be used in C++, it's recommend to use std::array implementations unless
+the task is rudimentary.
 
 #### With standard types
 ```
@@ -62,6 +64,8 @@ struct House {
 };
 
 int main() {
+		// See alternative method of doing this, artifact
+		of aggregate init
 		constexpr std::array<House, 3> houses_old {
 			House{13, 1, 7},
 			House{14, 2, 5},
@@ -86,4 +90,7 @@ int main() {
 ```
 
 ## Vectors
+A vector in C++ is essentially a dynamic array. It too stores elements linearly
+in memory. Crucially, they can change in size, unlike arrays.
+
 
