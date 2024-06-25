@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b55a88f6098d4fc9",
+        "id": "c816e02104805de4",
         "type": "tabs",
         "children": [
           {
-            "id": "33c2646a78ca60b1",
+            "id": "90fda42c5b39663a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_daily/Day 1.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_daily/Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_daily/Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_daily/Day 1.md"
+              }
             }
           },
           {
@@ -156,8 +164,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "33c2646a78ca60b1",
+  "active": "90fda42c5b39663a",
   "lastOpenFiles": [
+    "_daily/2024-06-25.md",
     "readme.md",
     "_daily/2022-05-11.md",
     "_daily/Day 1.md",

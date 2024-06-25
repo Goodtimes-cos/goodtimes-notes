@@ -7,8 +7,6 @@ category: daily
 tags: 
 ---
 
-
-
 # Day 1
 
 I decided to create notes in a more organised manner compared to simply
