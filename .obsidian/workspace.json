@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/Day 1.md",
+                "file": "_daily/2024-06-24.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/Day 1.md",
+                "file": "_daily/2024-06-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/Day 1.md",
+                "file": "_daily/2024-06-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/Day 1.md"
+                "file": "_daily/2024-06-24.md"
               }
             }
           },
@@ -167,9 +167,9 @@
   "active": "90fda42c5b39663a",
   "lastOpenFiles": [
     "_daily/2024-06-25.md",
-    "readme.md",
+    "_daily/2024-06-24.md",
     "_daily/2022-05-11.md",
-    "_daily/Day 1.md",
+    "readme.md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
     "_articles/table test.md",
