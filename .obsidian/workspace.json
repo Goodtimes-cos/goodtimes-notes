@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dfa6f61665ebe3ed",
+        "id": "b8af4f8321f9ac62",
         "type": "tabs",
         "children": [
           {
-            "id": "e022063f8748d182",
+            "id": "4779a917d0821b56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_wiki/Ramsey Theory Notes.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_wiki/Ramsey Theory Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_wiki/Ramsey Theory Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_wiki/Ramsey Theory Notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,8 +156,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e022063f8748d182",
+  "active": "4779a917d0821b56",
   "lastOpenFiles": [
+    "_wiki/Usufruct.md",
     "_wiki/References and Pointers.md",
     "_wiki/Ramsey Theory Notes.md",
     "_daily/2024-06-25.md",
@@ -181,7 +174,6 @@
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "_wiki/L-Dopa.md",
     "Untitled",
-    "_wiki/Usufruct.md",
     "_articles/Configure Exocore for Personal Use.md",
     "_articles/Set up a Custom Domain.md",
     "ring.md",
