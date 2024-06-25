@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b8af4f8321f9ac62",
+        "id": "9730a6a0a0fa52d8",
         "type": "tabs",
         "children": [
           {
-            "id": "4779a917d0821b56",
+            "id": "df4ea5497052aa30",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,11 +156,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4779a917d0821b56",
+  "active": "df4ea5497052aa30",
   "lastOpenFiles": [
+    "_wiki/Ramsey Theory Notes.md",
+    "_wiki/Positional Games.md",
+    "Untitled",
     "_wiki/Usufruct.md",
     "_wiki/References and Pointers.md",
-    "_wiki/Ramsey Theory Notes.md",
     "_daily/2024-06-25.md",
     "_daily/2024-06-24.md",
     "_daily/2022-05-11.md",
@@ -173,7 +175,6 @@
     "_journal/Jade post.md",
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "_wiki/L-Dopa.md",
-    "Untitled",
     "_articles/Configure Exocore for Personal Use.md",
     "_articles/Set up a Custom Domain.md",
     "ring.md",
@@ -198,7 +199,6 @@
     "library/Parascientific_Research_Council_Major_Thoughts.pdf",
     "library/Money-for-nothing-Virtual-Worlds-and-Virtual-Economies.pdf",
     "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
-    "library/Against Intellectual Property_2.pdf",
-    "readme.md"
+    "library/Against Intellectual Property_2.pdf"
   ]
 }
