@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "32c5ad2fb6ab6d27",
+        "id": "3f4b60267c3258a6",
         "type": "tabs",
         "children": [
           {
-            "id": "82acda4a6a33833e",
+            "id": "e630003a09b31559",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,19 +156,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "82acda4a6a33833e",
+  "active": "e630003a09b31559",
   "lastOpenFiles": [
-    "assets/imgs/BGs/BGtile-30.png",
-    "assets/imgs/BGs/BGtile-29.png",
-    "assets/imgs/BGs/BGtile-28.png",
-    "assets/imgs/BGs/BGtile-27.png",
-    "assets/imgs/BGs/BGtile-24.png",
-    "assets/imgs/BGs/BGtile-25.png",
-    "assets/imgs/BGs/BGtile-23.png",
-    "assets/imgs/BGs/BGtile-21.png",
-    "assets/imgs/BGs/BGtile-20.png",
-    "assets/imgs/BGs/BGtile-19.png",
-    "assets/imgs/BGs/BGtile-18.png",
+    "images/study-monk.png",
+    "images/Screen Shot 2022-03-03 at 8.04.47 am.png",
+    "images/rei-eva.jpg",
+    "images/roman-room.jpg",
+    "images/Screen Shot 2022-02-10 at 3.13.34 pm.png",
+    "images/red-writing2.png",
+    "images/IMG_4190.JPG",
+    "images/IMG_4102.JPG",
+    "images/guilded_image_08c671f803737fb4add252910ada0f7a.png",
+    "images/guilded_image_a29150ea687b49022ad957eb5db2024b.png",
+    "images/IMG_4172.JPG",
     "index.md",
     "library/Virtual-Worlds-market-and society-on-cyberian-frontier.pdf",
     "library/Parascientific_Research_Council_Major_Thoughts.pdf",
