@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "57f600646af84e23",
+        "id": "32c5ad2fb6ab6d27",
         "type": "tabs",
         "children": [
           {
-            "id": "e7cdf3a5e1b959cf",
+            "id": "82acda4a6a33833e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,21 +156,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7cdf3a5e1b959cf",
+  "active": "82acda4a6a33833e",
   "lastOpenFiles": [
+    "assets/imgs/BGs/BGtile-28.png",
+    "assets/imgs/BGs/BGtile-29.png",
+    "assets/imgs/BGs/BGtile-30.png",
+    "assets/imgs/BGs/BGtile-25.png",
+    "assets/imgs/BGs/BGtile-20.png",
+    "assets/imgs/BGs/BGtile-17.png",
+    "assets/imgs/BGs/BGtile-21.png",
+    "assets/imgs/BGs/BGtile-10.png",
+    "assets/imgs/BGs/BGtile-8.png",
+    "assets/imgs/BGs/BGtile-1.png",
+    "assets/imgs/BGs/BGtile-2.png",
+    "index.md",
     "library/Virtual-Worlds-market-and society-on-cyberian-frontier.pdf",
     "library/Parascientific_Research_Council_Major_Thoughts.pdf",
     "library/Money-for-nothing-Virtual-Worlds-and-Virtual-Economies.pdf",
     "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
     "library/Against Intellectual Property_2.pdf",
-    "images/caughtup.png",
-    "images/animegirl.png",
-    "images/2022-05-13-17-46-10.png",
-    "images/800px-Some_results_of_recent_anthropological_exploration_in_Peru_BHL23999360.jpg",
-    "images/2022-05-13-01-55-36.png",
-    "images/brown-horse.png",
-    "images/border-effect.png",
-    "index.md",
     "_daily/2024-06-25.md",
     "_daily/2024-06-24.md",
     "_daily/2022-05-11.md",
@@ -181,7 +185,6 @@
     "_daily/2022-10-25.md",
     "_articles/Exocore Installation Instructions.md",
     "_articles/Writing with Exocore Syntax.md",
-    "assets/imgs/bg-yotsuba.gif",
     "_articles/Configure Exocore for Personal Use.md",
     "_daily/2022-10-23.md"
   ]

@@ -16,5 +16,3 @@ I am primarily interested in languages, culture and philosophy, though I also ha
 
 With regards to unhealthy habits, I enjoy wasting time on YouTube and watching anime.
 
-![](/images/girl-online.png){:.right-aside}
-
