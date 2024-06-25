@@ -114,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_articles/Data Structures and Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_articles/Data Structures and Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_articles/Data Structures and Algorithms.md"
+              }
             }
           },
           {
@@ -181,40 +185,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "6a20644ff2232b84",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a39d42a0f5118028",
-        "type": "window",
-        "children": [
-          {
-            "id": "75e11b2f6e8cd1cb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5120b5cac6233e5d",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 477,
-        "y": 156,
-        "width": 1026,
-        "height": 802,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "5120b5cac6233e5d",
+  "active": "c74b81262343f5eb",
   "lastOpenFiles": [
     "_articles/Data Structures and Algorithms.md",
     "Untitled.md",

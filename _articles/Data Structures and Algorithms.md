@@ -9,8 +9,9 @@ tags: computers compsci
 ---
 
 # Data Structures and Algorithms
-Welcome to my summary of data structures and algorithms. Examples will be
-in C++ for my own learning.
+A summary of Data Structures and Algorithms in C++. For more detail,
+it's probably best to either find another tutorial, or look at my implemetations
+of [RosettaCode](https://github.com/Goodtimes-cos/DSA/tree/main/C%2B%2B/ProblemSets/RosettaCode) problems.
 
 ## Arrays
 An array is a composite [data type](https://en.wikipedia.org/wiki/Data_type)
@@ -93,4 +94,55 @@ int main() {
 A vector in C++ is essentially a dynamic array. It too stores elements linearly
 in memory. Crucially, they can change in size, unlike arrays.
 
+### C++ implementation
 
+```
+#include <numeric>
+#include <vector>
+#include <iostream>
+
+// Paras could also be const T& arr for allowing any object.
+template <typename T>
+void passByRef(const std::vector<T>& arr) {
+	std::cout << arr[0] << '\n';
+}
+
+int main() {
+	std::vector<int> empty{};
+	std::vector<int> primes{2,3,5,7,11};
+	std::vector<int> data(10);
+
+	int x,y,z;
+	std::cout << "Enter 3 integers: ";
+	std::cin >> x >> y >> z;
+	std::cout << "The sum is: " << x+y+z;
+	std::cout << "\nThe product is: " << x*y*z << std::endl;
+
+	std::vector<int> values{x, y, z};
+	std::cout << "The sum is: " << std::reduce(
+	values.begin(), 
+	values.end()
+	);
+
+	// Alternative ways of multiplying together
+	std::cout << "\nThe product is: " << std::accumulate(
+		std::begin(values), std::end(values),
+		1.0, std::multiplies<int>()) << std::endl; // C++98
+
+	int multi = 1;
+	for (const auto& e: values)
+		multi *= e;
+
+	std::cout << multi << std::endl;
+
+	passByRef(primes);
+
+	return 0;
+}
+```
+
+### Usage note
+Usually, it's best to use std::array. However, if you need dynamic arrays,
+and memory constraints aren't severe, using std::vector is a great choice.
+Furthermore, using std::vector guarantees it's heap-allocated, which can
+be useful in certain contexts.
