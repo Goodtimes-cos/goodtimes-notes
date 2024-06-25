@@ -146,3 +146,19 @@ Usually, it's best to use std::array. However, if you need dynamic arrays,
 and memory constraints aren't severe, using std::vector is a great choice.
 Furthermore, using std::vector guarantees it's heap-allocated, which can
 be useful in certain contexts.
+
+## Hash tables
+A Hash Table is a data structure which organises data using hash functions
+in order to support quick insertion and search.
+
+There are two kinds of hash tables:
+- The hash set, where no values may repeat,
+- A hash hap, where we store (key, value) pairs.
+
+The key idea of a Hash Table is to use a hash function to map
+keys to buckets. We decide which bucket the key should be assigned
+using a hash function.
+
+Ideally, a perfect hash function will be a one-to-one mapping between
+key and bucket, but this is often not possible. So, we must trade off
+the number of buckets to the capacity of a bucket.
