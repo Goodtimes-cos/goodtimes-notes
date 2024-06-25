@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "01efbb518ade814d",
+        "id": "8e5d39327bf61238",
         "type": "tabs",
         "children": [
           {
-            "id": "ffc1cfebbf82ebb7",
+            "id": "b9c63783b46c13a9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,8 +156,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ffc1cfebbf82ebb7",
+  "active": "b9c63783b46c13a9",
   "lastOpenFiles": [
+    "ring.md",
     "_wiki/Usufruct.md",
     "_wiki/L-Dopa.md",
     "_articles/Writing with Exocore Syntax.md",
