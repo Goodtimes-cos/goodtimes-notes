@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f4b60267c3258a6",
+        "id": "01efbb518ade814d",
         "type": "tabs",
         "children": [
           {
-            "id": "e630003a09b31559",
+            "id": "ffc1cfebbf82ebb7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,8 +156,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e630003a09b31559",
+  "active": "ffc1cfebbf82ebb7",
   "lastOpenFiles": [
+    "_wiki/Usufruct.md",
+    "_wiki/L-Dopa.md",
+    "_articles/Writing with Exocore Syntax.md",
+    "_articles/Using your Exocore.md",
+    "_articles/Underpinnings of the Exocore.md",
+    "_articles/The Exocore Package.md",
+    "_articles/table test.md",
+    "_articles/Set up a Custom Domain.md",
+    "_articles/Exocore Installation Instructions.md",
+    "_articles/Configure Exocore for Personal Use.md",
+    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
+    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
+    "_journal/Jade post.md",
+    "_journal/Notes on Remilia's New Internet.md",
+    "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
+    "_journal/The Exocore Workflow.md",
+    "_daily/2024-06-25.md",
+    "_daily/2024-06-24.md",
     "images/study-monk.png",
     "images/Screen Shot 2022-03-03 at 8.04.47 am.png",
     "images/rei-eva.jpg",
@@ -168,24 +186,17 @@
     "images/IMG_4102.JPG",
     "images/guilded_image_08c671f803737fb4add252910ada0f7a.png",
     "images/guilded_image_a29150ea687b49022ad957eb5db2024b.png",
-    "images/IMG_4172.JPG",
     "index.md",
     "library/Virtual-Worlds-market-and society-on-cyberian-frontier.pdf",
     "library/Parascientific_Research_Council_Major_Thoughts.pdf",
     "library/Money-for-nothing-Virtual-Worlds-and-Virtual-Economies.pdf",
     "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
     "library/Against Intellectual Property_2.pdf",
-    "_daily/2024-06-25.md",
-    "_daily/2024-06-24.md",
     "_daily/2022-05-11.md",
     "readme.md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
-    "_articles/table test.md",
     "_daily/2022-10-25.md",
-    "_articles/Exocore Installation Instructions.md",
-    "_articles/Writing with Exocore Syntax.md",
-    "_articles/Configure Exocore for Personal Use.md",
     "_daily/2022-10-23.md"
   ]
 }

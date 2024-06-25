@@ -2,6 +2,7 @@
 subtitle:
 date: 2022-02-09
 tags: recipe nutrition food
+published: false
 ---
 
 # Samgyetang Ginseng Chicken Soup (Korean Style)
@@ -26,7 +27,7 @@ tags: recipe nutrition food
 - Serve Hens whole in a bowl and pour over broth
 - Sprinkle spring onions and pepper  
   
-  Compare with [[chinese-ginseng-chicken-tonic-soup]]
+  Compare with [[Ginseng Chicken Tonic Soup (Chinese Style)]]
 
 ![](/images/korean-chicken-soup.jpg){:.glow}
 

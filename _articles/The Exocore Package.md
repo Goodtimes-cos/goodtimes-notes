@@ -3,6 +3,7 @@ subtitle:
 topic: Computers
 date: 2021-01-27
 tags: exocore remilia computers web
+published: false
 ---
 
 # The Exocore Package

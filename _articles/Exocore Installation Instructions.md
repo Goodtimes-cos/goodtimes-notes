@@ -4,12 +4,13 @@ category: article
 subtitle:
 topic:
 date: 2022-05-08
-tags: 
+tags:
+published: false
 ---
 
 # Exocore Installation Instructions
 
-You can set up a personal website as a public [[Exocore Executive Summary|exocortex]] with no code in this 15 minute guide, using entirely free services to host your site on the web. 
+You can set up a personal website as a public [[The Exocore Package|exocortex]] with no code in this 15 minute guide, using entirely free services to host your site on the web. 
 
 All pages are converted from simple, non-code [[Writing with Exocore Syntax|Markdown syntax]], so you can focus purely on writing. The end result will look identical to this page.
 

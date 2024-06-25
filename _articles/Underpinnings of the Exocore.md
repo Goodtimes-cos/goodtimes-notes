@@ -3,6 +3,7 @@ subtitle:
 topic:
 date: 2022-04-16
 tags: meta exocore computers learning
+published: false
 ---
 
 # Underpinnings of the Exocore

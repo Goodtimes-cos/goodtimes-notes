@@ -1,6 +1,7 @@
 ---
 date: 26 jan 2022
 tags: computers remilia
+published: false
 ---
 
 # Notes on Remilia's New Internet

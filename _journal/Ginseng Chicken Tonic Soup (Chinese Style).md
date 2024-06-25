@@ -2,6 +2,7 @@
 subtitle:
 date: 2022-02-02
 tags: recipe nutrition food
+published: false
 ---
 
 # Ginseng Chicken Tonic Soup (Chinese Style)
@@ -32,7 +33,7 @@ Prepare:
 - Cook for 1-4 hrs — 50% reduction is ideal.
 - Remove chicken and chop to serving size. Season soup with salt and serve in a bowl.
 
-Compare with [[korean-ginseng-chicken-soup]]
+Compare with [[Samgyetang Ginseng Chicken Soup (Korean Style)]]
 
 ![](../attachments/korean-chicken-soup.jpg)
 

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 subtitle:
 topic:
 date: 2022-04-13
@@ -7,7 +7,7 @@ tags: meta computers exocore
 ---
 # Using your Exocore
 
-Now that you've [[Exocore Installation Instructions|installed your exocore]] this guide will walk you through navigating it in practice. Read a more detailed explanation of the Exocore's present and future functionality [[Exocore Executive Summary|here.]]
+Now that you've [[Exocore Installation Instructions|installed your exocore]] this guide will walk you through navigating it in practice. Read a more detailed explanation of the Exocore's present and future functionality [[The Exocore Package|here.]]
 
 ## Launch your Exocore
 

@@ -3,6 +3,7 @@ subtitle:
 topic: Computers
 date: 2022-02-04
 tags: meta exocore
+published: false
 ---
 
 # Writing with Exocore Syntax
@@ -29,7 +30,7 @@ Here's some advice: Only use top-level headings (preceded by `#`) for the docume
 
 ## Examples of Wikilinks:
 
-Here is a basic wikilink, pointing to other posts on this Exocore: `[[Exocore Executive Summary]]` It renders like this: [[Exocore Executive Summary]].
+Here is a basic wikilink, pointing to other posts on this Exocore: `[[Exocore Executive Summary]]` It renders like this: [[The Exocore Package]].
 
 It is written as the title of their corresponding markdown file, surrounded by double square brackets. However, in the final render they are presented by default as the page's title. This saves you typing out the whole page title in your markdown document, and allows the Foam VSCode extension to suggest files as you type. Below you can read about how to change their presentation.
 
@@ -43,7 +44,7 @@ Check out the backlinks section at the bottom of any post, and you'll find a lis
 
 The below text is embedded, using the same wikilink syntax as normal, but with an `!` prepended. The full text of the linked note will be included. For example, here is an example of embedded note syntax:
 
-![[jade-post]]
+![[Jade post]]
 
 ## External Hyperlinks
 
@@ -105,7 +106,7 @@ For more options, check out the 'advanced tables' plugin in the sidebar. This pl
 
 ## Graphviz
 
-For more complex data representation, [Graphviz](https://graphviz.org/) can be used in conjunction with the Exocore. Read more about Graphviz syntax [here](https://graphviz.org/documentation/), and find a demonstration of the way it is used with the Exocore [[exocore-workflow|here]].
+For more complex data representation, [Graphviz](https://graphviz.org/) can be used in conjunction with the Exocore. Read more about Graphviz syntax [here](https://graphviz.org/documentation/), and find a demonstration of the way it is used with the Exocore [[The Exocore Workflow|here]].
 
 
 ## Sidenotes and Footnotes:
