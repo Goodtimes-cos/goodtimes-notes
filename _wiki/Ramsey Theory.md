@@ -5,7 +5,7 @@ date: 2024-06-25
 tags: maths
 ---
 
-# Ramsey Theory Notes
+# Ramsey Theory
 - What is the pigeonhole principle with regards to ramsey theory?
 - How do you prove the above?
 - What is the definition of a Ramsey number?

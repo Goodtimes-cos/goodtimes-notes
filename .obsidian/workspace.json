@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f8ffa1b1fe65ba1f",
+        "id": "e0ff7b9a654bd13d",
         "type": "tabs",
         "children": [
           {
-            "id": "6abec0436a06d823",
+            "id": "6fa9fd79177440be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_wiki/Positional Games.md",
+                "file": "_wiki/Extremal Set Theory.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_wiki/Positional Games.md",
+                "file": "_wiki/Extremal Set Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_wiki/Positional Games.md",
+                "file": "_wiki/Extremal Set Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_wiki/Positional Games.md"
+                "file": "_wiki/Extremal Set Theory.md"
               }
             }
           },
@@ -164,16 +164,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6abec0436a06d823",
+  "active": "6fa9fd79177440be",
   "lastOpenFiles": [
-    "_wiki/Ramsey Theory Notes.md",
-    "_daily/2024-06-26.md",
-    "_daily/2024-06-25.md",
-    "_wiki/Concurrency and Context Switching.md",
     "_wiki/Positional Games.md",
+    "_wiki/Extremal Set Theory.md",
+    "_wiki/Concurrency and Context Switching.md",
+    "_wiki/L-Dopa.md",
+    "_wiki/Ramsey Theory.md",
     "_wiki/References and Pointers.md",
     "_wiki/Usufruct.md",
-    "_wiki/L-Dopa.md",
+    "_daily/2024-06-26.md",
+    "_daily/2024-06-25.md",
     "_articles/Set up a Custom Domain.md",
     "_articles/table test.md",
     "_articles/The Exocore Package.md",
@@ -192,7 +193,6 @@
     "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
     "_journal/Notes on Remilia's New Internet.md",
     "_journal/Jade post.md",
-    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "images/study-monk.png",
     "images/Screen Shot 2022-03-03 at 8.04.47 am.png",
     "images/rei-eva.jpg",
