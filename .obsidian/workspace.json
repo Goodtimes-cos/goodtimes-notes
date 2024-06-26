@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1da917b8466814d6",
+        "id": "2d77462d8c3fdb41",
         "type": "tabs",
         "children": [
           {
-            "id": "e215fc762668e870",
+            "id": "bca2491e2b23a252",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,7 +156,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e215fc762668e870",
+  "active": "bca2491e2b23a252",
   "lastOpenFiles": [
     "_daily/2024-06-26.md",
     "images/rei-eva.jpg",
