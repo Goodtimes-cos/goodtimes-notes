@@ -21,7 +21,7 @@ tags:
 - State the Erdős-Selfridge Theorem.
 - State the proof of the Erdős-Selfridge Theorem. (Hint: Potential function)
 - How does the condition of the Erdős-Selfridge Theorem relax if we apply it to a breaker-maker game?
-- Fact: For the Ramsey game RG$(n,t)$, there are ${n \choose t}$ winning sets, each of size ${t \choose 2}$. It follows that if ${n \choose t} < 2^{{t \choose 2}-1}$, then Player 2 has a drawing strategy, so $R_G(t) > n$.
+- Fact: For the Ramsey game RG$(n,t)$, there are ${n \choose t}$ winning sets, each of size ${t \choose 2}$. It follows that if ${n \choose t} < 2^{\choose{t}{2}-1}$, then Player 2 has a drawing strategy, so $R_G(t) > n$.
 - What is a pairing strategy?
 - How do we play in parallel?
 - Prove that the unrestricted-$n$-in-a-row maker-breaker game is Breaker's win for every $n \geq 40$.
