@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a60cabd045efe79a",
+        "id": "4bfb9415ab76f3b9",
         "type": "tabs",
         "children": [
           {
-            "id": "53f909e4b777143d",
+            "id": "1a9caf05f391e775",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,13 +156,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53f909e4b777143d",
+  "active": "1a9caf05f391e775",
   "lastOpenFiles": [
+    "_daily/2024-06-25.md",
     "_wiki/Concurrency and Context Switching.md",
     "_wiki/Positional Games.md",
     "_wiki/Ramsey Theory Notes.md",
     "_wiki/References and Pointers.md",
-    "_daily/2024-06-25.md",
     "_wiki/Usufruct.md",
     "_wiki/L-Dopa.md",
     "_articles/Set up a Custom Domain.md",
