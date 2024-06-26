@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "538b1a7061becc23",
+        "id": "1da917b8466814d6",
         "type": "tabs",
         "children": [
           {
-            "id": "916f0fe9f0113597",
+            "id": "e215fc762668e870",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,8 +156,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "916f0fe9f0113597",
+  "active": "e215fc762668e870",
   "lastOpenFiles": [
+    "_daily/2024-06-26.md",
     "images/rei-eva.jpg",
     "images/korean-chicken-soup.jpg",
     "images/lukasa.jpg",
@@ -168,13 +169,11 @@
     "images/IMG_4102.JPG",
     "images/guilded_image_a29150ea687b49022ad957eb5db2024b.png",
     "images/girl-online.png",
-    "images/grid.png",
     "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "_journal/Jade post.md",
     "_journal/Notes on Remilia's New Internet.md",
     "_journal/The Exocore Workflow.md",
-    "_daily/2024-06-26.md",
     "_daily/2024-06-25.md",
     "_articles/Data Structures and Algorithms.md",
     "_articles/Object Orientated Programming.md",
