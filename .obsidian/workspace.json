@@ -11,8 +11,12 @@
             "id": "1a9caf05f391e775",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_wiki/Ramsey Theory Notes.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_wiki/Ramsey Theory Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_wiki/Ramsey Theory Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_wiki/Ramsey Theory Notes.md"
+              }
             }
           },
           {
@@ -158,6 +166,7 @@
   },
   "active": "1a9caf05f391e775",
   "lastOpenFiles": [
+    "_daily/2024-06-26.md",
     "_daily/2024-06-25.md",
     "_wiki/Concurrency and Context Switching.md",
     "_wiki/Positional Games.md",
@@ -184,7 +193,6 @@
     "_journal/Notes on Remilia's New Internet.md",
     "_journal/Jade post.md",
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
-    "ring.md",
     "images/study-monk.png",
     "images/Screen Shot 2022-03-03 at 8.04.47 am.png",
     "images/rei-eva.jpg",
