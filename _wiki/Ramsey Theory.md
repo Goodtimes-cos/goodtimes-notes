@@ -22,11 +22,11 @@ tags: maths
    binomial identity? How do we prove the latter quantity?)
 - Prove that for all $t \in \mathbb{N}$, $R(t) \leq 2^{2t-1}$ holds. (Hints: Let $n=$? How do we guarantee a monochromatic copy of $K_t$? How many edges are adjacent to an arbitrary vertex? How many times do we repeat this process? What two criterion does the resulting sequence satisfy?)
 - What is the definition of $R_k(s_1, \dots, s_k)$?
-- How do we prove the above exists? (Hints: Proceed by induction on $k$. Assume holds for $k-1$. What are variables $m and n$? Why does $n$ hold? Consider colourings $c and \tilde{c}$. Consider what structures
+- How do we prove the above exists? (Hints: Proceed by induction on $k$. Assume holds for $k-1$. What are variables $m$ and $n$? Why does $n$ hold? Consider colourings $c$ and $\tilde{c}$. Consider what structures
   exists based on $\tilde{c}$, what are the consequences of these?)
   - How do we prove that $R(3,4) = 9$? (Hint: Consider the three cases: at least 4 red edges, at least 6 blue edges, exactly 3 red edges and 5 blue edges. From this, what may we conclude? Next, how can we prove that a r/b-edge-colouring of $K_8$ has no red $K_3$ nor blue $K_4$?)
   - How can we use the random colouring proof to show that, for $t,n \in \mathbb{N}$, if ${n \choose t}2^{1 - {t \choose 2}} < 1$, then $R(t) > n$? (Hint: How may we colour the edges independently and of equal probability? Must all coin flips be mutually independent? How many sets of $t$ vertices exist? How many will be red? How many blue? What is the value of $\mathbb{E}(X)$? Why is it important that $X$ must be a non-negative integer?
-  - For every $t \geq 4$, $R(t) > \floor{2^{\frac{t}{2}}}$ holds. (Hint: What value should $n$ take? By theorem 1.13, what must we prove? From here we may simply derive.)
+  - For every $t \geq 4$, $R(t) > \lfloor{2^{\frac{t}{2}}}\rfloor$ holds. (Hint: What value should $n$ take? By theorem 1.13, what must we prove? From here we may simply derive.)
   - What is the definition of $X^{(r)}$?
   - What is the definition of $R^{(r)}(s,t)$?
   - Prove that for any $s,t \geq r \geq 1$, $R^{(r)}(s,t)$ is finite and satisfies $R^{(r)}(s,t) \leq R^{(r-1)}(R^{(r)})(s-1, t), R^{(r)}(s, t-1)) + 1$.

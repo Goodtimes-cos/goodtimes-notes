@@ -18,7 +18,7 @@ tags:
 - Let $P$ be a finite poset. Prove that if the largest antichain in P has size $r$, then P can be partitioned into $r$ chains. (Dilworth)
 - Prove that $A = {a_1, \dots, a_r}$ is an antichain.
 - What is a bipartite graph?
-- Prove that for a bipartite graph with vertex classes $A$ and $B$ such that $|N(S)| \geq |S|$ for all $S \subseteq A$. Then, $G$ contains a matching covering all of $A$.
+- Prove that for a bipartite graph with vertex classes $A$ and $B$ such that $\lVert N(S) \rVert \geq \lVert S \rVert$ for all $S \subseteq A$. Then, $G$ contains a matching covering all of $A$.
 - Prove Sperner's lemma.
 - Prove the YBLM inequality.
 - Prove the Littlewood-Offord problem.
