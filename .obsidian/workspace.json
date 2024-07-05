@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2d77462d8c3fdb41",
+        "id": "491bb025c2253b11",
         "type": "tabs",
         "children": [
           {
-            "id": "bca2491e2b23a252",
+            "id": "15870fbd4c5aa4a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_daily/2024-07-05.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-07-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2024-07-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_daily/2024-07-05.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,11 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bca2491e2b23a252",
+  "active": "15870fbd4c5aa4a3",
   "lastOpenFiles": [
-    "_daily/2024-06-30.md",
+    "_daily/2024-07-5.md",
     "_daily/2024-07-05.md",
+    "_journal/Books.md",
+    "_journal/Music.md",
+    "_daily/2022-05-11.md",
     "_daily/2024-06-26.md",
+    "_daily/2024-06-24.md",
+    "_daily/2024-06-25.md",
+    "_daily/2024-06-30.md",
     "images/rei-eva.jpg",
     "images/korean-chicken-soup.jpg",
     "images/lukasa.jpg",
@@ -184,7 +182,6 @@
     "_journal/Jade post.md",
     "_journal/Notes on Remilia's New Internet.md",
     "_journal/The Exocore Workflow.md",
-    "_daily/2024-06-25.md",
     "_articles/Data Structures and Algorithms.md",
     "_articles/Object Orientated Programming.md",
     "_articles/Writing with Exocore Syntax.md",
@@ -197,11 +194,6 @@
     "_wiki/Usufruct.md",
     "_wiki/References and Pointers.md",
     "_wiki/L-Dopa.md",
-    "_articles/Set up a Custom Domain.md",
-    "_articles/table test.md",
-    "_articles/The Exocore Package.md",
-    "_articles/Exocore Installation Instructions.md",
-    "_articles/Configure Exocore for Personal Use.md",
     "Untitled",
     "library/Virtual-Worlds-market-and society-on-cyberian-frontier.pdf",
     "library/Parascientific_Research_Council_Major_Thoughts.pdf",
