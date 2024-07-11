@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "491bb025c2253b11",
+        "id": "ce0ea73ff443e435",
         "type": "tabs",
         "children": [
           {
-            "id": "15870fbd4c5aa4a3",
+            "id": "c6a82368d41501a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-07-08.md",
+                "file": "_wiki/Ramsey Theory.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-07-08.md",
+                "file": "_wiki/Ramsey Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2024-07-08.md",
+                "file": "_wiki/Ramsey Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2024-07-08.md"
+                "file": "_wiki/Ramsey Theory.md"
               }
             }
           },
@@ -164,15 +164,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "15870fbd4c5aa4a3",
+  "active": "c6a82368d41501a8",
   "lastOpenFiles": [
-    "_daily/2024-07-08.md",
+    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
+    "_wiki/Ramsey Theory.md",
+    "_daily/2022-05-11.md",
+    "_daily/2024-06-26.md",
     "_daily/2024-07-5.md",
+    "_articles/Writing with Exocore Syntax.md",
+    "_articles/Using your Exocore.md",
+    "_articles/The Exocore Package.md",
+    "_articles/Underpinnings of the Exocore.md",
+    "_articles/Set up a Custom Domain.md",
+    "_articles/Object Orientated Programming.md",
+    "_articles/Data Structures and Algorithms.md",
+    "_articles/Exocore Installation Instructions.md",
+    "_daily/2024-07-08.md",
     "_daily/2024-07-05.md",
     "_journal/Books.md",
     "_journal/Music.md",
-    "_daily/2022-05-11.md",
-    "_daily/2024-06-26.md",
     "_daily/2024-06-24.md",
     "_daily/2024-06-25.md",
     "_daily/2024-06-30.md",
@@ -187,21 +197,11 @@
     "images/guilded_image_a29150ea687b49022ad957eb5db2024b.png",
     "images/girl-online.png",
     "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
-    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "_journal/Jade post.md",
     "_journal/Notes on Remilia's New Internet.md",
     "_journal/The Exocore Workflow.md",
-    "_articles/Data Structures and Algorithms.md",
-    "_articles/Object Orientated Programming.md",
-    "_articles/Writing with Exocore Syntax.md",
-    "_articles/Using your Exocore.md",
-    "_articles/Underpinnings of the Exocore.md",
     "_wiki/Extremal Set Theory.md",
-    "_wiki/Ramsey Theory.md",
     "_wiki/Positional Games.md",
-    "_wiki/Concurrency and Context Switching.md",
-    "_wiki/Usufruct.md",
-    "_wiki/References and Pointers.md",
     "Untitled",
     "library/Virtual-Worlds-market-and society-on-cyberian-frontier.pdf",
     "library/Parascientific_Research_Council_Major_Thoughts.pdf",
