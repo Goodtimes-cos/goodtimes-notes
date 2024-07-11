@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_wiki/Ramsey Theory.md",
+                "file": "_daily/2022-05-11.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_wiki/Ramsey Theory.md",
+                "file": "_daily/2022-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_wiki/Ramsey Theory.md",
+                "file": "_daily/2022-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_wiki/Ramsey Theory.md"
+                "file": "_daily/2022-05-11.md"
               }
             }
           },
@@ -166,11 +166,12 @@
   },
   "active": "c6a82368d41501a8",
   "lastOpenFiles": [
-    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
-    "_wiki/Ramsey Theory.md",
-    "_daily/2022-05-11.md",
     "_daily/2024-06-26.md",
     "_daily/2024-07-5.md",
+    "_wiki/Ramsey Theory.md",
+    "_daily/2024-07-11.md",
+    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
+    "_daily/2022-05-11.md",
     "_articles/Writing with Exocore Syntax.md",
     "_articles/Using your Exocore.md",
     "_articles/The Exocore Package.md",
@@ -201,7 +202,6 @@
     "_journal/Notes on Remilia's New Internet.md",
     "_journal/The Exocore Workflow.md",
     "_wiki/Extremal Set Theory.md",
-    "_wiki/Positional Games.md",
     "Untitled",
     "library/Virtual-Worlds-market-and society-on-cyberian-frontier.pdf",
     "library/Parascientific_Research_Council_Major_Thoughts.pdf",
