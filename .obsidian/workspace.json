@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ring.md",
+                "file": "_daily/2024-07-12.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ring.md",
+                "file": "_daily/2024-07-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ring.md",
+                "file": "_daily/2024-07-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ring.md"
+                "file": "_daily/2024-07-12.md"
               }
             }
           },
@@ -166,6 +166,8 @@
   },
   "active": "d49f0928e557d1ca",
   "lastOpenFiles": [
+    "ring.md",
+    "_daily/2024-07-12.md",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_daily/2022-05-11.md",
     "_journal/Dep.md",
@@ -200,8 +202,6 @@
     "images/IMG_4102.JPG",
     "images/guilded_image_a29150ea687b49022ad957eb5db2024b.png",
     "images/girl-online.png",
-    "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
-    "_journal/Jade post.md",
     "Untitled",
     "library/Virtual-Worlds-market-and society-on-cyberian-frontier.pdf",
     "library/Parascientific_Research_Council_Major_Thoughts.pdf",
