@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-07-12.md",
+                "file": "_daily/2024-07-17.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-07-12.md",
+                "file": "_daily/2024-07-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2024-07-12.md",
+                "file": "_daily/2024-07-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2024-07-12.md"
+                "file": "_daily/2024-07-17.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "d49f0928e557d1ca",
   "lastOpenFiles": [
-    "ring.md",
     "_daily/2024-07-12.md",
+    "_daily/2024-07-17.md",
+    "ring.md",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_daily/2022-05-11.md",
     "_journal/Dep.md",
@@ -191,7 +192,6 @@
     "_journal/Music.md",
     "_daily/2024-06-24.md",
     "_daily/2024-06-25.md",
-    "_daily/2024-06-30.md",
     "images/rei-eva.jpg",
     "images/korean-chicken-soup.jpg",
     "images/lukasa.jpg",
